@@ -10,7 +10,7 @@ A Contact Book UI built with [Flutter](https://flutter.dev)
 
 
 ## Screenshots
-<img align="left" src="https://raw.githubusercontent.com/Sherigabia/Contact-app/main/screenshots/figmadesigns.png" width="200" height="400"/>
+<img align="left" src="https://raw.githubusercontent.com/Sherigabia/Contact-app/main/screenshots/figmadesigns.png" width="100%" height="400"/>
  <img src="https://raw.githubusercontent.com/Sherigabia/Contact-app/main/screenshots/home.png" width="200" height="400"/> 
     <img src="https://raw.githubusercontent.com/Sherigabia/Contact-app/main/screenshots/details.png" width="200" height="400"/> 
     <img src="https://raw.githubusercontent.com/Sherigabia/Contact-app/main/screenshots/details2.png" width="200" height="400"/>
