@@ -10,7 +10,7 @@ A Contact Book UI built with [Flutter](https://flutter.dev)
 
 
 ## Screenshots
-<img align="left" src="https://github.com/Sherigabia/Contact-app/main/screenshots/figmadesigns.png" width="200" height="400"/>
+<img align="left" src="https://github.com/Sherigabia/Contact-app/master/screenshots/figmadesigns.png" width="200" height="400"/>
 <br>
 <tr>
    <td> <img src="https://github.com/Sherigabia/Contact-app/main/screenshot/home.png" width="200" height="400"/> </td>
@@ -32,7 +32,7 @@ git clone https://github.com/Sherigabia/Contact-app.git
 ```
 
 Then 
-locate the project on your system and open with android studio
+locate the project on your system and open with android studio or Vscode
 
 
 ## Prerequisites
@@ -40,34 +40,16 @@ locate the project on your system and open with android studio
 What things you need to install the software and how to install them
 
 ```
-* Android Studio
-* Java JDK 8+
-* Android SDK
-* Firebase Account
-```
+* Android Studio / Vscode
 
-## Keystore Configuration
-Create a file "keystore.properties" in app/ folder of project and add & edit the following code to suit your details
-```
-storePassword=myStorePassword //your store password
-keyPassword=mykeyPassword //your keystore password
-keyAlias=myKeyAlias //your keystore alias
-storeFile=/Documents/uploadKeys/keystore.jks //path to your keystore
-```
+* Flutter SDK
 
-## Helliomessaging sms service(optional)
-You can create an account with [Helliomessaging](https://helliomessaging.com/) to get their API client id and auth key.
-Add the Client Id and App secret to your grade.properties
-
-```
-SMS_CLIENT_ID="xxxxxxxxxxxxx"
-SMS_APP_SECRET="xxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
 
 ## How to contribute
-Contributing to XYZ Reader App is pretty straight forward! Fork the project, clone your fork and start coding!
+Contributing to this project is pretty straight forward! Fork the project, clone your fork and start coding!
 
 
 
@@ -94,11 +76,13 @@ Contributing to XYZ Reader App is pretty straight forward! Fork the project, clo
 ## Author
 
 * **Sherigabia Pambo** 
-
+- [**Twitter**](https://bit.ly/3E6Wg6M)
+- [**Linkedin**](https://bit.ly/3p4ZELe)
+- [**Facebook**](https://bit.ly/3p87Dra)
 
 ## License
 
-Copywrite 2018 Sunu Bright Etornam
+Copywrite 2021 Sherigabia
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
